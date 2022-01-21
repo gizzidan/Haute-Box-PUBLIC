@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Agrandir";
+  src: url("https://cdn.shopify.com/s/files/1/0587/7861/5981/files/AgrandirVariable-Weight402Width95Italic000.woff?v=1642698009")
+    format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Agrandir";
+  src: url("https://cdn.shopify.com/s/files/1/0587/7861/5981/files/AgrandirVariable-Weight465Width95Italic000.woff?v=1642698009")
+    format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Agrandir Wide";
+  src: url("https://cdn.shopify.com/s/files/1/0587/7861/5981/files/AgrandirVariable-wght500wdth150ital0.00.ttf?v=1642092452")
+    format("truetype");
+  font-weight: normal;
+}
+
+p,
+h3,
+h4,
+ol,
+li,
+ul,
+a {
+  font-family: "Agrandir", "Arial", sans-serif !important;
+  font-weight: normal !important;
+}
+h1,
+h2,
+a.kmButton {
+  font-family: "Agrandir Wide", "Arial", sans-serif !important;
+  font-weight: normal !important;
+}
